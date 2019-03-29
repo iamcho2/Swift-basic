@@ -9,7 +9,7 @@
 
 ### [명명법, 콘솔 로그, 문자열 보간법](https://github.com/iamcho2/Swift-basic/blob/master/markdown/naming-log-string.md) ✅
 
-#### ### [자료형]()
+### [자료형]()
 
 ### [함수]()
 
